@@ -1,0 +1,5 @@
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK2\NUnit_and_Moq_1_NUnit_Handson\CODE\obj\Debug\net9.0\CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK2\NUnit_and_Moq_1_NUnit_Handson\CODE\obj\Debug\net9.0\CODE.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK2\NUnit_and_Moq_1_NUnit_Handson\CODE\obj\Debug\net9.0\CODE.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK2\NUnit_and_Moq_1_NUnit_Handson\CODE\obj\Debug\net9.0\CODE.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK2\NUnit_and_Moq_1_NUnit_Handson\CODE\obj\Debug\net9.0\CODE.sourcelink.json
