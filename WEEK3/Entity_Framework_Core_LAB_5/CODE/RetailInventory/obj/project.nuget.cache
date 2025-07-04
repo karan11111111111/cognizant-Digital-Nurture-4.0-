@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axAldYN7/pw=",
+  "dgSpecHash": "6yB/WC0UyeM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_5\\code\\RetailInventory\\RetailInventory.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_5\\CODE\\RetailInventory\\RetailInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
