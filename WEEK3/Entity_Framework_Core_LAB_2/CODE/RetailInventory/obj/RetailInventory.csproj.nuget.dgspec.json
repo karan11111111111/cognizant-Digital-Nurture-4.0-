@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\code\\RetailInventory\\RetailInventory.csproj": {}
+    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\CODE\\RetailInventory\\RetailInventory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\code\\RetailInventory\\RetailInventory.csproj": {
+    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\CODE\\RetailInventory\\RetailInventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\code\\RetailInventory\\RetailInventory.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\CODE\\RetailInventory\\RetailInventory.csproj",
         "projectName": "RetailInventory",
-        "projectPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\code\\RetailInventory\\RetailInventory.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\CODE\\RetailInventory\\RetailInventory.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\code\\RetailInventory\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK3\\Entity_Framework_Core_LAB_2\\CODE\\RetailInventory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
