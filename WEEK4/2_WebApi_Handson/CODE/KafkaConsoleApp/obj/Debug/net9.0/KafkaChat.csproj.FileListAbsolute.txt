@@ -1,0 +1,6 @@
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\2_WebApi_Handson\CODE\KafkaChat\obj\Debug\net9.0\KafkaChat.csproj.AssemblyReference.cache
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\2_WebApi_Handson\CODE\KafkaChat\obj\Debug\net9.0\KafkaChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\2_WebApi_Handson\CODE\KafkaChat\obj\Debug\net9.0\KafkaChat.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\2_WebApi_Handson\CODE\KafkaChat\obj\Debug\net9.0\KafkaChat.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\2_WebApi_Handson\CODE\KafkaChat\obj\Debug\net9.0\KafkaChat.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\2_WebApi_Handson\CODE\KafkaChat\obj\Debug\net9.0\KafkaChat.sourcelink.json
