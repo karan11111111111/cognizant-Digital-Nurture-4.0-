@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\2_WebApi_Handson\\CODE\\WebApiDemo\\WebApiDemo.csproj": {}
+    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\WebApi_Handson_1_To_6\\CODE\\WebApiDemo\\WebApiDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\2_WebApi_Handson\\CODE\\WebApiDemo\\WebApiDemo.csproj": {
+    "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\WebApi_Handson_1_To_6\\CODE\\WebApiDemo\\WebApiDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\2_WebApi_Handson\\CODE\\WebApiDemo\\WebApiDemo.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\WebApi_Handson_1_To_6\\CODE\\WebApiDemo\\WebApiDemo.csproj",
         "projectName": "WebApiDemo",
-        "projectPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\2_WebApi_Handson\\CODE\\WebApiDemo\\WebApiDemo.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\WebApi_Handson_1_To_6\\CODE\\WebApiDemo\\WebApiDemo.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\2_WebApi_Handson\\CODE\\WebApiDemo\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\WebApi_Handson_1_To_6\\CODE\\WebApiDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"

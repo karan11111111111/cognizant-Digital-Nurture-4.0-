@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bphZvYA2LKE=",
+  "dgSpecHash": "0vqRa71Nre4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\2_WebApi_Handson\\CODE\\WebApiDemo\\WebApiDemo.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Downloads\\MyPracticeRepo\\WEEK4\\WebApi_Handson_1_To_6\\CODE\\WebApiDemo\\WebApiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\confluent.kafka\\2.1.1\\confluent.kafka.2.1.1.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\librdkafka.redist\\2.1.1\\librdkafka.redist.2.1.1.nupkg.sha512",
