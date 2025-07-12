@@ -1,9 +1,0 @@
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.csproj.AssemblyReference.cache
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.AssemblyInfoInputs.cache
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.AssemblyInfo.cs
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.csproj.CoreCompileInputs.cache
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\KIIT\Downloads\MyPracticeRepo\WEEK4\1_WebApi_Handson\CODE\MyWebApi\obj\Debug\net9.0\MyWebApi.sourcelink.json
