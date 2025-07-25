@@ -1,0 +1,50 @@
+/* CohortDetails.module.css */
+
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  vertical-align: top; /* Align items to the top */
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.25rem;
+}
+
+dt {
+  font-weight: 500;
+  margin-top: 8px;
+  color: #555;
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.blueText {
+  color: #0000FF; /* Pure blue for the first cohort */
+}
+
+.greenText {
+  color: #008000; /* Pure green for the other cohorts and status text */
+}
+
+.statusText {
+  color: #008000; /* Apply green to status text explicitly */
+}
+
+/* Basic App.css for centering and general layout (optional, can be merged into App.js if using Tailwind directly) */
+.App {
+  font-family: 'Inter', sans-serif; /* Using Inter font */
+  text-align: center;
+  padding: 20px;
+}

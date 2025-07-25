@@ -1,0 +1,58 @@
+/* src/Stylesheets/mystyle.css */
+/* Reset any default browser margins/paddings if necessary for full control */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Closest common default font */
+    background-color: #fff; /* Ensure white background as in the image */
+}
+
+.student-details-container {
+    /* No explicit width, margin, padding on the container itself to mimic raw text */
+    /* If you want it centered in the browser, you'd add this to App.css or index.css: */
+    /*
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding-top: 50px; // Adjust as needed to match vertical position
+    */
+}
+
+.student-details-heading {
+    color: #8B0000; /* Dark Reddish-brown, approximate from image */
+    font-size: 20px; /* Approximate size */
+    font-weight: bold;
+    margin-bottom: 10px; /* Space below heading */
+}
+
+.detail-line {
+    margin-bottom: 5px; /* Small space between lines */
+    font-size: 16px; /* Default text size */
+    line-height: 1.2; /* Tighter line height */
+}
+
+.detail-label {
+    color: #000; /* Black */
+    font-weight: bold;
+}
+
+.name-value {
+    color: #0000FF; /* Blue */
+    font-weight: normal; /* Ensure not bold */
+}
+
+.school-value {
+    color: #FF00FF; /* Red/Pink, approximate */
+    font-weight: normal;
+}
+
+.total-value {
+    color: #800080; /* Purple */
+    font-weight: normal;
+}
+
+.score-value {
+    color: #008000; /* Green */
+    font-weight: normal;
+}
